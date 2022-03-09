@@ -9,6 +9,7 @@
 body{
     max-width:1900px;
     margin: 0 auto;
+    background-color: rgb(218, 245, 190);
 }
 header{
     display: flex;
@@ -44,7 +45,7 @@ main{
 }
 h2{
     font-size: 56px;
-    line-height: 70px;
+    line-height: 60px;
 
 }
 span{
@@ -89,6 +90,7 @@ input{
     padding: 20px;
     border-radius: 15px;
     font-size: 15px;
+    border: white;
 
 }
 #button-send{

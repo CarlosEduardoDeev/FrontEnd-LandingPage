@@ -8,7 +8,7 @@
     }
     h2{
         font-size: 38px;
-
+        line-height: 50px;
     }
     form{
         margin: 0 auto;
@@ -16,6 +16,7 @@
     }
     input{
         align-self: center;
+        max-width: 100%;
     }
     img{
         width: 400px;
@@ -24,5 +25,14 @@
     ul{
         text-align: center;
         
+    }
+    h1{
+        margin: 0px;
+    }
+    h2,p{
+        margin-left: 10px;
+    }
+    main{
+        margin-top: 20px;
     }
 }
