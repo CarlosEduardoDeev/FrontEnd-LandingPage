@@ -9,8 +9,8 @@ LandingPage baseada em uma empresa de LifeStyle onde os clientes se cadastrando 
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">   
  </div>
  
-# Versao WEB 
-<a href="https://gifyu.com/image/SMFmi"><img src="https://s7.gifyu.com/images/Document---Brave-2022-03-09-12-25-02.gif" alt="Document---Brave-2022-03-09-12-25-02.gif" border="0"></a>
+ # WEB
+<a href="https://gifyu.com/image/SMF8R"><img src="https://s7.gifyu.com/images/Life-Style-LandingPage---Brave-2022-03-09-15-43-08.gif" alt="Life-Style-LandingPage---Brave-2022-03-09-15-43-08.gif" border="0"></a>
 
-# Responsivo
-<a href="https://gifyu.com/image/SMFmj"><img src="https://s7.gifyu.com/images/Document---Brave-2022-03-09-12-27-12.gif" alt="Document---Brave-2022-03-09-12-27-12.gif" border="0"></a>
+# Responsivel
+<a href="https://gifyu.com/image/SMF8i"><img src="https://s7.gifyu.com/images/Life-Style-LandingPage---Brave-2022-03-09-15-43-26.gif" alt="Life-Style-LandingPage---Brave-2022-03-09-15-43-26.gif" border="0"></a>
