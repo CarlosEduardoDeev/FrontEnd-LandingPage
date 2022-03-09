@@ -36,3 +36,9 @@
         margin-top: 20px;
     }
 }
+@media screen and (max-width: 1360px){
+    h1,title {
+        margin-left: 0px;
+    }
+    
+}
