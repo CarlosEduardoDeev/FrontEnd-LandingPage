@@ -1,63 +1,33 @@
+/* ---------------------------------------------------------- --- Fonts -------------------------------------------------------------     */
+
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Supermercado+One&display=swap');
 
+
+/* --------------------------------------------------------------Configuração basica HTML -------------------------------------------------------------     */
 *{
     padding: 0px;
     box-sizing: border-box;
     margin: 0px;
     font-family: 'Poppins', sans-serif;
 }
+
 body{
     max-width:1900px;
     margin: 0 auto;
     background-color: rgb(218, 245, 190);
 }
+/*------------------------------------------------------------------ Estrutura do Header----------------------------------------------- */
 header{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
 }
+/* ----------------------------------------------------------------- Menu de Navegação ------------------------------------------------- */
 
-title{
-    letter-spacing: 20px;
-    flex-direction: column;
-    line-height: 10px;
-    
-}
 li{
     display: inline-block;
     margin: 20px;
-}
-h1{
-    letter-spacing: 10px;
-    margin-left: 250px;
-}
-#title-style{
-    color: rgb(21, 214, 63);;
-}
-
-main{
-    display: flex;
-    flex-direction: row;
-    margin-top: 130px;
-    justify-content: center;
-    align-items: center;
-}
-h2{
-    font-size: 56px;
-    line-height: 60px;
-
-}
-span{
-    color: rgb(21, 214, 63);
-}
-p{
-    margin-top: 30px;
-    line-height: 30px;
-    max-width: 500px;
-}
-img{
-    max-width: 600px;
 }
 a{
     font-size: 20px;
@@ -78,11 +48,53 @@ a:hover{
     background-color:rgb(21, 214, 63) ;
     color: white;
 }
+/*-------------------------------------------------------------- Logo do site "Life Style"-------------------------------------------- */
+title{
+    letter-spacing: 20px;
+    flex-direction: column;
+    line-height: 10px;
+    
+}
+h1{
+    letter-spacing: 10px;
+    margin-left: 250px;
+}
+#title-style{
+    color: rgb(21, 214, 63);;
+}
+
+/*---------------------------------------------------------- Container do meio da página----------------------------------------------------- */
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 130px;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    font-size: 56px;
+    line-height: 60px;
+
+}
+span{
+    color: rgb(21, 214, 63);
+}
+p{
+    margin-top: 30px;
+    line-height: 30px;
+    max-width: 500px;
+}
+
+/* --------------------------------------------------------------imagem da página -------------------------------------------------------------     */
+img{
+    max-width: 600px;
+}
+
+/* ------------------------------------------------------------- Formulário -------------------------------------------------------------     */
 form{
     display: flex;
     flex-direction: column;
-    width: 70%;
-    
+    width: 70%;   
 }
 input{
     margin-top: 20px;
@@ -91,10 +103,9 @@ input{
     border-radius: 15px;
     font-size: 15px;
     border: white;
-
 }
+/* ---------------------------------------------------------- ---Button "enviar" Formulário -------------------------------------------------------------     */
 #button-send{
-
     text-align: center;
     align-items: center;
     align-self: center;
